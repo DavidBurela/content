@@ -115,6 +115,11 @@ lang: en-US
     <p>PTVS (Python Tools for Visual Studio) includes an extension to support running Python on Windows 10 IoT Core</p>
     <a href="https://github.com/microsoft/ptvs/releases" target="_blank">Learn More</a>
   </div>
+  <div class="col-md-6">
+    <h3>Windows IoT Remote Client</h3>
+    <p>This allows for complete remote control of a UWP application running on Windows 10 IoT Core from a Windows 10 desktop PC, tablet, or phone.</p>
+    <a href="https://www.microsoft.com/store/apps/9nblggh5mnxz" target="_blank">Learn More</a>
+  </div>
 </div>
 <div class="row">
   <div class="col-md-24">
